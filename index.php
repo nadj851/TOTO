@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         phpinfo();
+        //Nadhlib  a rajouté quelque chose
         ?>
     </body>
 </html>
