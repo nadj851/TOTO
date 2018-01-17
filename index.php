@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         phpinfo();
         //Nadhlib  a rajouté quelque chose
+        //Reyder aussi
         ?>
     </body>
 </html>
